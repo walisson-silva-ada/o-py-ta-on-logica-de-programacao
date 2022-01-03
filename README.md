@@ -1,10 +1,10 @@
 # o-py-ta-on-logica-de-programacao
 Projeto 1 do Módulo de Lógica de Programação e POO | O Py Ta On
 
-Integrantes:
-Josue
-Julio
-Victor
+Integrantes: <br>
+Josue <br>
+Julio <br>
+Victor <br>
 
 # Objetivo do Projeto
 
